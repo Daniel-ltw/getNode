@@ -2474,7 +2474,7 @@ rules:
 # Work related pieces
   - DOMAIN,console.cloud.google.com,🔰 节点选择
   - DOMAIN,mail.google.com,🔰 节点选择
-  - DOMAIN,drive.google.com,🔰 节点选择
+  - DOMAIN-SUFFIX,drive.google.com,🔰 节点选择
   - DOMAIN,video.google.com,🔰 节点选择
   - DOMAIN-KEYWORD,youtube,🔰 节点选择
 # Others
