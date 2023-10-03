@@ -2396,6 +2396,10 @@ proxy-groups:
       - 🇳🇱 17|🇳🇱_NL_荷兰_29
       - 🇺🇸 17|🇺🇸_US_美国_由快嘴科技提供：kkzui.com1_30
 rules:
+# Work related pieces
+  - DOMAIN,console.cloud.google.com,🔰 节点选择
+  - DOMAIN,mail.google.com,🔰 节点选择
+# Others
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
   - IP-CIDR,10.0.0.0/8,🎯 全球直连,no-resolve
