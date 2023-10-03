@@ -2399,6 +2399,7 @@ rules:
 # Work related pieces
   - DOMAIN,console.cloud.google.com,🔰 节点选择
   - DOMAIN,mail.google.com,🔰 节点选择
+  - DOMAIN-KEYWORD,youtube,🔰 节点选择
 # Others
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
